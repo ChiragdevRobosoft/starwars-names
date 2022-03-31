@@ -1,0 +1,28 @@
+{
+  "name": "starwars-name-excercise",
+  "version": "1.0.0",
+  "description": "Get random Star Wars names",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChiragdevRobosoft/starwars-names.git"
+  },
+  "keywords": [
+    "random",
+    "star",
+    "wars"
+  ],
+  "author": "Chirag Robosoft <chirag.dev@robosoftin.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChiragdevRobosoft/starwars-names/issues"
+  },
+  "homepage": "https://github.com/ChiragdevRobosoft/starwars-names#readme",
+  "dependencies": {
+    "unique-random-array": "3.0.0"
+  }
+}
